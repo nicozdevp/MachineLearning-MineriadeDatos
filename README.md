@@ -89,7 +89,7 @@ Por definir.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * Python
 * Pandas
