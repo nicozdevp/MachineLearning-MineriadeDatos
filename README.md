@@ -31,7 +31,7 @@ El dataset incluye las siguientes características relevantes:
 * **Occupancy_status**: estado de ocupación
 * **Price_in_taka**: precio de la propiedad
 
-Estas variables permiten analizar el comportamiento del mercado y construir modelos de predicción de precios. ([Kaggle][1])
+Estas variables permiten analizar el comportamiento del mercado y construir modelos de predicción de precios. 
 
 ---
 
